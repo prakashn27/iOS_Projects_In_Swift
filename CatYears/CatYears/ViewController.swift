@@ -16,8 +16,13 @@ class ViewController: UIViewController {
     @IBAction func FindAge(sender: AnyObject) {
         var enteredAge = TextFieldCatAge.text.toInt()
         println("printing age = \(enteredAge)")
-        var catYears = enteredAge! * 7  //! - dont worry that it is sure that entered age is a value
-        LabelResult.text = String(catYears)
+        if enteredAge != nil {  //for checking the nil
+            var catYears = enteredAge! * 7  //! - dont worry that it is sure that entered age is a value
+            LabelResult.text = "Your car age is \(catYears) in cat years"
+        } else {
+            LabelResult.text = "Please enter a whole number"
+        }
+        
         //println("cat's age = \(age * 7)")
     }
 
