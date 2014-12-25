@@ -13,6 +13,6 @@ Get a prime number from the user. See whether it is prime or not
     6. return true;
     
 ####screen shots 
-![Prime Number](https://cloud.githubusercontent.com/assets/3127498/5552664/d99d65a4-8bd5-11e4-8e88-6f775f5a7cbe.png=1000x800)
+![Prime Number](https://cloud.githubusercontent.com/assets/3127498/5552664/d99d65a4-8bd5-11e4-8e88-6f775f5a7cbe.png)
 ![Not a Prime](https://cloud.githubusercontent.com/assets/3127498/5552663/d99d465a-8bd5-11e4-8f0e-f4a97998dd29.png)
 ![Invalid Entry](https://cloud.githubusercontent.com/assets/3127498/5552665/d99ef4f0-8bd5-11e4-9f08-664485ba9ffe.png)
