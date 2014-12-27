@@ -1,7 +1,7 @@
 ## Stopwatch
 
 ```
-Stopwatch implementation with seconds and milliseconds
+Stopwatch implementation with seconds and milliseconds.
 ```
 
 ####ScreenShots
